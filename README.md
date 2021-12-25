@@ -4,6 +4,9 @@
 Recently, I have finished 5 projects through Node.js and I am currenrly looking for company to accumulate my experience.
 I can adapt to any environment but I prefer to work in the team. Even if I did not have any experience with front-end, I am interested in learning new language as well.
 
+시간 날때마다 notion 도 업데이트 하고 있습니다.
+Whenever I have a time, I am updating what I learned on notion page. Please check my notion page as well.
+
 Platforms & Languages
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 

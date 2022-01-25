@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/passionnhope0110@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Jenny H-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"/> <img src="https://img.shields.io/badge/jennysh.hong-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/passionnhope0110@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Jenny H-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"/> <img src="https://img.shields.io/badge/jennysh.hong-E4405F?style=flat-square&logo=instagram&logoColor=blue"/> <img src="https://img.shields.io/badge/sh0110-E4405F?style=flat-square&logo=velog&logoColor=black"/>
 
 ### Hi there 👋 I am Jenny Hong
 I am Sung Hyun Hong.
